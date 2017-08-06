@@ -38,8 +38,8 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/karlvr/paddle-webhook-verifier.git</connection>
-		<developerConnection>scm:git:ssh://github.com:karlvr/paddle-webhook-verifier.git</developerConnection>
+		<connection>scm:git:git@github.com:karlvr/paddle-webhook-verifier.git</connection>
+		<developerConnection>scm:git:git@github.com:karlvr/paddle-webhook-verifier.git</developerConnection>
 		<url>http://github.com/karlvr/paddle-webhook-verifier</url>
 	</scm>
 
