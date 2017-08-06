@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.xk72</groupId>
 	<artifactId>paddle-webhook-verifier</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>Paddle Webhook Verifier</name>
 	<url>https://github.com/karlvr/paddle-webhook-verifier</url>
 	<description>Verifies Paddle webhook notifications.</description>
@@ -40,7 +40,7 @@
 		<connection>scm:git:git@github.com:karlvr/paddle-webhook-verifier.git</connection>
 		<developerConnection>scm:git:git@github.com:karlvr/paddle-webhook-verifier.git</developerConnection>
 		<url>http://github.com/karlvr/paddle-webhook-verifier</url>
-	  <tag>paddle-webhook-verifier-1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
