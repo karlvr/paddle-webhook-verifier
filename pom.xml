@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.xk72</groupId>
 	<artifactId>paddle-webhook-verifier</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>Paddle Webhook Verifier</name>
 	<url>https://github.com/karlvr/paddle-webhook-verifier</url>
 	<description>Verifies Paddle webhook notifications.</description>
@@ -41,7 +40,8 @@
 		<connection>scm:git:git@github.com:karlvr/paddle-webhook-verifier.git</connection>
 		<developerConnection>scm:git:git@github.com:karlvr/paddle-webhook-verifier.git</developerConnection>
 		<url>http://github.com/karlvr/paddle-webhook-verifier</url>
-	</scm>
+	  <tag>paddle-webhook-verifier-1.0</tag>
+  </scm>
 
 	<distributionManagement>
 		<snapshotRepository>
