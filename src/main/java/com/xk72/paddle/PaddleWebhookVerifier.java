@@ -12,10 +12,9 @@ import java.security.spec.X509EncodedKeySpec;
 import java.util.Base64;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.TreeMap;
 
 import de.ailis.pherialize.Pherialize;
-
-import java.util.TreeMap;
 
 /**
  * Verify Paddle webhook requests.
